@@ -13,3 +13,11 @@
 07-01
 * Wiggle Sort 2
 * Count Number of Nice Subaarays
+
+08-01
+* Flip Matrix
+
+12-01
+* Amount of Time for Binary Tree to be infected
+* Sort Characters by frequency
+* Find Subsequence of length K with Largest Sum
